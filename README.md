@@ -1,3 +1,17 @@
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : PREMITHA V
+
+**INTERN ID** : CT08GYB
+
+**DOMAIN** : FULL STACK WEB DEVELOPMENT
+
+**BATCH DURATION** : DECEMBER 25th 2024 to JANUARY 25th 2025
+
+**MENTOR NAME** : NEELA SANTHOSH KUMAR
+
+**DESCRIPTION**
+
 Introduction
 In today's interconnected world, accessing real-time data from the internet is a vital aspect of building dynamic and interactive web applications. One of the most common uses of external data is integrating public APIs (Application Programming Interfaces) into websites. APIs provide a mechanism to pull in data from remote servers, enabling developers to display updated content without requiring the user to refresh the page.
 
