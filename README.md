@@ -49,3 +49,8 @@ HTML: For the structure of the webpage.
 CSS: For styling the webpage and making it responsive.
 JavaScript: To interact with the OpenWeatherMap API, handle user input, and dynamically update the webpage content.
 OpenWeatherMap API: A free API that provides weather information based on the user's input (city name).
+
+**OUTPUT**
+
+![output1](https://github.com/user-attachments/assets/643ca0ff-2395-4b41-90f6-430371a8c693)
+
