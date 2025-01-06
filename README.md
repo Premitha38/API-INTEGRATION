@@ -13,6 +13,7 @@
 **DESCRIPTION**
 
 **Introduction**
+
 In today's interconnected world, accessing real-time data from the internet is a vital aspect of building dynamic and interactive web applications. One of the most common uses of external data is integrating public APIs (Application Programming Interfaces) into websites. APIs provide a mechanism to pull in data from remote servers, enabling developers to display updated content without requiring the user to refresh the page.
 
 For this project, we will create a responsive webpage that fetches weather data from a public API (OpenWeatherMap) and displays it dynamically. This will showcase the power of APIs in building real-time applications and highlight how APIs can enhance the user experience on websites.
